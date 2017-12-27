@@ -52,6 +52,6 @@
 	</dependencies>
 
 	<build>
-		<finalName>mblog</finalName>
+		<finalName>mblogftl</finalName>
 	</build>
 </project>

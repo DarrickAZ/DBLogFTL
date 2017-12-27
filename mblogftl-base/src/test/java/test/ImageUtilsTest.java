@@ -1,8 +1,8 @@
 package test;
 
-import mblog.base.utils.ImageUtils;
-
 import java.io.IOException;
+
+import mblogftl.base.utils.ImageUtils;
 
 /**
  * @author langhsu on 2015/9/4.
